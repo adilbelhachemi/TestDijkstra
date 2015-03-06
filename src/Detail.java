@@ -18,10 +18,10 @@ public class Detail {
 	
 	
 	
-	public int getNbrVertex(){
-		return (int) list.get(0);
-	}
-	
+//	public int getNbrVertex(){
+//		return (int) list.get(0);
+//	}
+//	
 
 
 	public void addVertex(int ss) {
